@@ -26,9 +26,9 @@ This repository contains my step-by-step progress, experiments, and extensions w
 
 ## 🧱 Current Progress
 
-- [ ] Freestanding Rust Binary
-- [ ] Minimal Rust Kernel
-- [ ] VGA Text Mode
+- [X] Freestanding Rust Binary
+- [X] Minimal Rust Kernel
+- [X] VGA Text Mode
 - [ ] Testing
 - [ ] CPU Exceptions
 - [ ] Double Faults
